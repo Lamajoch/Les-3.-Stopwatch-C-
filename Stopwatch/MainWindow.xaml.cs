@@ -31,7 +31,7 @@ namespace Stopwatch
             // Initialize the timer and set it to fire a tick event every millisecond
             _timer = new DispatcherTimer();
             _timer.Tick += Timer_Tick;
-            _timer.Interval = TimeSpan.FromMilliseconds(0.3);
+            _timer.Interval = TimeSpan.FromMilliseconds(0.5);
         }
 
         // Event handler for the timer tick event
