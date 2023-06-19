@@ -101,7 +101,6 @@ namespace Stopwatch
             // Enable the Start button and disable the Reset button
             btnStart.IsEnabled = true;
             btnReset.IsEnabled = false;
-            btnReset.IsEnabled = false;
         }
     }
 
