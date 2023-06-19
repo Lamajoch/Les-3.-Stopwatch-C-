@@ -55,7 +55,7 @@ namespace Stopwatch
             btnRonde.IsEnabled = true;
             btnStop.IsEnabled = true;
             btnReset.IsEnabled = true;
-            btnStart.IsEnabled = true;
+            btnStart.IsEnabled = false;
 
             // Reset the round number and start the timer
             _ronde = 0;
