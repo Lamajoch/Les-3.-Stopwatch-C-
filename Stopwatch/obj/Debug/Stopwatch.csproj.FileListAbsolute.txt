@@ -1,0 +1,48 @@
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\MainWindow.g.cs
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\App.g.cs
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.cache
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.lref
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\MainWindow.baml
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.g.resources
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\hljp\Downloads\Les 2. Stopwatch (C#)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\MainWindow.g.cs
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\App.g.cs
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.cache
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.lref
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\MainWindow.baml
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.g.resources
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\MainWindow.g.cs
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\App.g.cs
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.cache
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.lref
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\MainWindow.baml
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.g.resources
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\noahg\OneDrive\Bureaublad\Les 3. Stopwatch (C#) (1)\Les 3. Stopwatch (C#)\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
