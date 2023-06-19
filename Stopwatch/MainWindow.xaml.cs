@@ -103,5 +103,6 @@ namespace Stopwatch
             btnReset.IsEnabled = false;
         }
     }
+}
 
 }
